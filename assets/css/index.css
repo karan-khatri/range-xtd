@@ -56,7 +56,7 @@ h6 {
 }
 
 ul {
-  list-style-image: url('./images/icon-wifi.png');
+  list-style-image: url('../images/icon-wifi.png');
 }
 
 ul li {
